@@ -1,0 +1,11 @@
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\bin\Debug\netcoreapp3.0\ForSchoolCSharpConsole.exe
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\bin\Debug\netcoreapp3.0\ForSchoolCSharpConsole.deps.json
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\bin\Debug\netcoreapp3.0\ForSchoolCSharpConsole.runtimeconfig.json
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\bin\Debug\netcoreapp3.0\ForSchoolCSharpConsole.runtimeconfig.dev.json
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\bin\Debug\netcoreapp3.0\ForSchoolCSharpConsole.dll
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\bin\Debug\netcoreapp3.0\ForSchoolCSharpConsole.pdb
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\obj\Debug\netcoreapp3.0\ForSchoolCSharpConsole.csprojAssemblyReference.cache
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\obj\Debug\netcoreapp3.0\ForSchoolCSharpConsole.AssemblyInfoInputs.cache
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\obj\Debug\netcoreapp3.0\ForSchoolCSharpConsole.AssemblyInfo.cs
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\obj\Debug\netcoreapp3.0\ForSchoolCSharpConsole.dll
+C:\Users\Draco\source\repos\ForSchoolCSharpConsole\ForSchoolCSharpConsole\obj\Debug\netcoreapp3.0\ForSchoolCSharpConsole.pdb
